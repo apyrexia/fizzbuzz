@@ -11,11 +11,50 @@ https://blog.codinghorror.com/why-cant-programmers-program/
 #figuring it out on my own as I learn without looking up an answer
 #as in not a direct answer, still using rubydoc etc
 #enjoying having a small problem to think through
-#that's in my league at this early stage
+#that is in my league at this early stage
 
 #will need enumerator (iterator!) to work properly
 #learned a lot about conditionals from this already
-
+#
+#
+#
+##
+#
+#
+##
+#
+#
+##
+#
+#
+##
+#
+#
+##
+#
+#
+##
+#
+#
+##
+#
+#
+##
+#
+#
+##
+#
+#
+##
+#
+#
+##
+#
+#
+##
+#
+#
+#
 sequence = (1..100).to_a
 
 sequence.each do |n|
